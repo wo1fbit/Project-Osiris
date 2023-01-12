@@ -1,4 +1,8 @@
-## Osiris
+![osiris](https://img.shields.io/badge/osiris-v0.1.0-blue)
+![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/wo1fbit/Osiris/v0.1.0/total?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/wo1fbit/Osiris)
+
+# Osiris
 
 ![logo](./media/osiris2.png)
 
