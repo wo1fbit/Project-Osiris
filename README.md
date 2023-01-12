@@ -1,4 +1,5 @@
-![osiris](https://img.shields.io/badge/osiris-v0.1.0-blue)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/wo1fbit/Osiris)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/wo1fbit/Osiris?style=social)
 ![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/wo1fbit/Osiris/v0.1.0/total?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/wo1fbit/Osiris)
 
