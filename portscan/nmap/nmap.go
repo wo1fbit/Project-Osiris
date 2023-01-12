@@ -1,3 +1,5 @@
+package nmap
+
 import (
     "fmt"
     "github.com/Ullaakut/nmap"
