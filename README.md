@@ -7,7 +7,7 @@
 
 ![logo](./media/osiris2.png)
 
-# Use the wiki:
+# Read the wiki:
 ### https://github.com/wo1fbit/Osiris/wiki
 # Download
 ### https://github.com/wo1fbit/Osiris/releases/download/v0.1.0/osiris
