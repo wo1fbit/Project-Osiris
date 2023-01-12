@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-package nmap
-
-import (
-  "fmt"
-)
-
-func Nmap() {
-}
-=======
-package nmap
-
 import (
     "fmt"
     "github.com/Ullaakut/nmap"
@@ -91,4 +79,3 @@ func scan(wg *sync.WaitGroup, ip string, sem *semaphore.Weighted, f io.Writer) {
         }
     }
 }
->>>>>>> 8cb2dab (create nmap package)
