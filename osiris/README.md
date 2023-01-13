@@ -10,7 +10,7 @@
 # Read the wiki:
 ### https://github.com/wo1fbit/Project-Osiris/wiki/Osiris
 # Download
-### https://github.com/wo1fbit/Osiris/releases/download/v0.1.0/osiris
+### https://github.com/wo1fbit/Project-Osiris/releases/download/osiris-v0.1.0/osiris
 
 Osiris is a reconnaissance tool designed to assist security professionals in gathering information about a target system or network. The tool automates various tasks, such as port scanning, network mapping, and gathering information about hosts and services. It also provides a comprehensive reporting mechanism that helps to prioritize and report the information gathered.
 
