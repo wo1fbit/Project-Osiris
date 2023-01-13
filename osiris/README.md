@@ -1,14 +1,14 @@
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/wo1fbit/Osiris)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/wo1fbit/Project-Osiris/Osiris)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/wo1fbit/Osiris?style=social)
-![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/wo1fbit/Osiris/v0.1.0/total?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/wo1fbit/Osiris)
+![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/wo1fbit/Project-Osiris/Osiris/v0.1.0/total?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/wo1fbit/Project-Osiris/Osiris)
 
 # Osiris
 
 ![logo](./media/osiris2.png)
 
 # Read the wiki:
-### https://github.com/wo1fbit/Osiris/wiki
+### https://github.com/wo1fbit/Project-Osiris/wiki/Osiris
 # Download
 ### https://github.com/wo1fbit/Osiris/releases/download/v0.1.0/osiris
 
