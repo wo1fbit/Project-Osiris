@@ -66,7 +66,7 @@ func Intercept(intercept string) {
 					if stop == true {
 						return
 					}
-					_, _ :=proxy.Accept()
+					proxy.Accept()
 				}
 			}()
 			running = true
